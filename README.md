@@ -2,7 +2,7 @@
   <img style="width:70%; height:auto" src="https://i.imgur.com/iXuL1HG.png"/>
 </p>
 
-<h1 align="center">Hey there! I'm Alexis Dalle <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hey there! I'm Ayan Das <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <strong>A passionate software engineer with a strong focus on innovation and creating impactful solutions. My expertise lies in full-stack development, and I'm particularly skilled in working with Flutter 💙 to build sleek and dynamic applications.</strong>
 
